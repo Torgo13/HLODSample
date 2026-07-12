@@ -286,7 +286,6 @@ MonoBehaviour:
   m_CrosshairCanvas: {fileID: 9131961404394414058}
   m_TouchInputCanvas: {fileID: 4682428349833130388}
   m_EventSystem: {fileID: 499885696063000424}
-  FlythroughDirector: {fileID: 0}
 --- !u!1 &9131961404394414058
 GameObject:
   m_ObjectHideFlags: 0

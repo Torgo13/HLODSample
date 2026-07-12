@@ -7,6 +7,7 @@ TagManager:
   - MainLight
   - CinemachineTarget
   - ScreenCamera
+  - dirt
   layers:
   - Default
   - TransparentFX
@@ -21,6 +22,7 @@ TagManager:
   - Occluder
   - Camera
   - MainCameraOnly
+  - Terrain
   - 
   - 
   - 
@@ -38,8 +40,7 @@ TagManager:
   - 
   - 
   - 
-  - 
-  - 
+  - HLOD
   m_SortingLayers:
   - name: Default
     uniqueID: 0

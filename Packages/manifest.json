@@ -5,13 +5,18 @@
     "com.unity.adaptiveperformance": "6.0.0",
     "com.unity.adaptiveperformance.google.android": "6.0.0",
     "com.unity.cinemachine": "3.1.7",
+    "com.unity.collections": "2.6.7",
+    "com.unity.hlod": "file:../../HLODSystem/com.unity.hlod",
+    "com.unity.hlod.addressable": "file:../../HLODSystem/com.unity.hlod.addressable",
     "com.unity.ide.rider": "3.0.40",
     "com.unity.ide.visualstudio": "2.0.27",
     "com.unity.inputsystem": "1.19.0",
-    "com.unity.probuilder": "6.0.9",
-    "com.unity.render-pipelines.universal": "17.3.0",
     "com.unity.sponza-urp": "https://github.com/alexmalyutindev/sponza-unity-urp.git#5665fb87d07b2943424eab5827f76d74f314de9d",
-    "com.unity.web.stripping-tool": "1.3.0"
+    "com.unity.web.stripping-tool": "1.3.0",
+    "com.whinarn.unitymeshsimplifier": "file:../../UnityMeshSimplifier",
+    "com.unity.modules.imageconversion": "1.0.0",
+    "com.unity.modules.terrainphysics": "1.0.0",
+    "com.unity.modules.unitywebrequest": "1.0.0"
   },
   "scopedRegistries": [
     {
