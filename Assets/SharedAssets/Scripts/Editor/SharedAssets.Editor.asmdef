@@ -1,0 +1,25 @@
+{
+    "name": "SharedAssets.Editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:b84ed199a6e468f40a6e42c7c1365afe",
+        "GUID:15fc0a57446b3144c949da3e2b9737a9"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [
+        {
+            "name": "com.unity.modules.imageconversion",
+            "expression": "",
+            "define": "ENABLED_IMAGE_CONVERSION"
+        }
+    ],
+    "noEngineReferences": false
+}
